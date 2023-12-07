@@ -18,9 +18,15 @@ const CreatePost = () => {
     <section className='max-w-7xl mx-auto'>
 <div>
     <h1 className='font-extrabold text-black-700 text-4xl'>Create</h1>
-    <p className='mt-4 text-1xl  text-gray-500'>Create imaginative and visually stunning explored
+    <p className='mt-4 text-1xl  text-gray-500'>Create imaginative and visually stunning
     images through Dall-E ai and share them withthe comminity</p>
   </div>
+
+  <form className='mt-16 max-w-3xl' onSubmit={handleSubmit}>
+  <div className='flex flex-col gap-5'>
+
+  </div>
+  </form>
 </section>
 
     )
