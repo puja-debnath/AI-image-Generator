@@ -1,0 +1,62 @@
+{
+	"folders": [
+		{
+			"name": "social-media-app",
+			"path": "../../../../social-media-app"
+		},
+		{
+			"name": "ecommarce-app",
+			"path": "../../../../ecommarce-app"
+		},
+		{
+			"name": "currencyGen",
+			"path": "../../../../currencyGen"
+		},
+		{
+			"name": "javascript",
+			"path": "../../../../javascript"
+		},
+		{
+			"name": "Reac-Type",
+			"path": "../../../../Reac-Type"
+		},
+		{
+			"name": "react-ques",
+			"path": "../../../../react-ques"
+		},
+		{
+			"name": "typescript",
+			"path": "../../../../typescript"
+		},
+		{
+			"path": "../../../../MERN1"
+		},
+		{
+			"path": "../../../../Rest Api"
+		},
+		{
+			"path": "../../../../chatgpt-enhanced"
+		},
+		{
+			"path": "../../../../Backend--"
+		},
+		{
+			"path": "../../../../NODE-JS"
+		},
+		{
+			"path": "../../../../redux_toolkit"
+		},
+		{
+			"path": "../../../../javascript-deepdive"
+		},
+		{
+			"path": "../../../../React-Interview"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "javascript"
+	}
+}
